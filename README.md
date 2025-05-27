@@ -11,8 +11,6 @@ I'm a passionate and pragmatic software engineer with over **9 years of experien
 - **Frameworks**: NestJS, Laravel, React
 - **Tools**: Docker, AWS, RabbitMQ, Redis, CI/CD
 
----
-
 ## 🧠 What Drives Me
 
 - 🔍 Obsessive about **clean, maintainable code**
