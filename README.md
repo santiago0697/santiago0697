@@ -15,9 +15,9 @@ I'm a passionate and pragmatic software engineer with over **9 years of experien
 
 - 🔍 Obsessive about **clean, maintainable code**
 
-- 🧑‍🏫 Natural **mentor** and coach—love leveling up teams
+- 🧑‍🏫 Natural **mentor** and coach, leveling up teams
 - 🔄 Constantly learning, evolving, and **sharing knowledge**
-- 🧩 Problem-solving isn't just a skill—it's my favorite challenge
+- 🧩 Problem-solving isn't just a skill, it's my favorite challenge
 
 
 ## 📫 Let's Connect
