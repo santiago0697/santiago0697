@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Santiago Correa
+# 👋 Hi, I'm Santiago
 
 🎯 **Senior Software Engineer** | 🧠 **Domain-Driven Design Enthusiast** | 🏗️ **Hexagonal Architecture Advocate**
 
