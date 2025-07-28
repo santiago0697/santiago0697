@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Santiago
 
-🎯 **Senior Software Engineer** | 🧠 **Domain-Driven Design Enthusiast** | 🏗️ **Hexagonal Architecture Advocate**
+🎯 **Senior Software Engineer** | 🧠 **Domain-Driven Design Enthusiast** | 🏗️ **Clean Architecture Advocate**
 
 I'm a passionate and pragmatic software engineer with over **9 years of experience** designing scalable, resilient systems. I specialize in building high-quality software using **DDD**, **Hexagonal Architecture**, and **TDD** principles. My focus is not just on delivering working software, but doing so in a way that improves teams, systems, and the businesses behind them.
 
