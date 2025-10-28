@@ -7,9 +7,8 @@ I'm a passionate and pragmatic software engineer with over **9 years of experien
 ## 🔧 Tech Toolbox
 
 - **Languages**: TypeScript, PHP, Go, SQL/NoSQL
-- **Architectures**: DDD, Hexagonal, Modular Monolith, Event-Driven, CQRS, Distributed Systems
+- **Architectures**: DDD, Clean Architecture, Modular Monolith, Event-Driven, CQRS, Distributed Systems, Microservices
 - **Frameworks**: NestJS, Laravel, React
-- **Tools**: Docker, AWS, RabbitMQ, Redis, CI/CD
 
 ## 🧠 What Drives Me
 
