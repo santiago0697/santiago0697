@@ -22,7 +22,6 @@ I'm a passionate and pragmatic software engineer with over **9 years of experien
 ## 📫 Let's Connect
 
 - 🌍 [LinkedIn](https://www.linkedin.com/in/santiagocorreamz/)
-- 📧 scorrea153@gmail.com
 
 ---
 
